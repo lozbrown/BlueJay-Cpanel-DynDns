@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynDnsClientConfig>
+    <dynDnsClients>
+        <cPanelConfig>
+            <CPanelURL>https://url_to_your_cpanel.com:2083</CPanelURL>
+            <username>cpanel_user_name</username>
+            <password>cpanel_password</password>
+            <!-- if you want to add/update home_pc.your_domain_name.com with external IP address -->
+            <name>home_pc</name>
+            <domain>your_domain_name.com</domain>
+            <updateFrequency>5</updateFrequency>
+            <TTL>300</TTL>
+        </cPanelConfig>
+    </dynDnsClients>
+    <externalAddressQueryInterval>5</externalAddressQueryInterval>
+    <!-- quite often the host company uses self-signed certificate or it uses different host name on the certificate
+         if you are certain it's safe to connect to your cpanel site, change false to true in the following line -->
+    <ignoreCertificateError>false</ignoreCertificateError>
+</dynDnsClientConfig>

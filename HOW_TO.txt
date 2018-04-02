@@ -1,0 +1,32 @@
+** rename conf/DynDnsClientConfig_template.xml to conf/DynDnsClientConfig.xml and change the settings.
+
+	1. change CPanelURL to your cpanel url, something like "https://gator1908.hostgator.com:2083/"
+	2. change username to your cpanel username
+	3. change password to your cpanel password, it will be encrypted by the application later.
+	4. change name, for A record, to the name you want to add/update
+	5. change domain to your domain name
+	6. optional: ttl - default to 300 seconds, it's only used when adding new record
+	7. optional: update frequency - default to 5 minute, the minimum value is 1.
+	8. optoinal: external IP address query interval - default to 5 minutes, the minimum value is 1.
+	8. optoinal: ignore invalid SSL certificate - default to verify certificate, set to "true" to ignore invalid certificate.
+	
+
+** launch the application
+
+	from command line, type "java -jar BlueJayLauncher.jar"
+
+
+** terminate the running application
+
+	from command line, type "java -jar BlueJayLauncher.jar exit"
+
+
+** Windows only - install/remove service
+
+	type "java -jar BlueJayLauncher.jar install_service" to install it as a service.
+	
+	type "java -jar BlueJayLauncher.jar remove_service" to remove the service.
+	
+
+
+	

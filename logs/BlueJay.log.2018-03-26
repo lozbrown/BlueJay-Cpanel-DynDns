@@ -1,0 +1,730 @@
+2018-03-26 00:00:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:00:13.846 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:00:13.847 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:05:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:05:13.647 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:10:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:10:13.838 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:10:13.838 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:15:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:15:13.647 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:20:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:20:13.845 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:20:13.845 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:25:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:25:13.647 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:30:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:30:13.842 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:30:13.842 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:35:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:35:13.842 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:35:13.843 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:40:13.647 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:40:13.648 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:45:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:45:13.847 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:45:13.847 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:50:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:50:13.648 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 00:55:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 00:55:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 00:55:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:00:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:00:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:00:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:05:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:05:13.648 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:10:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:10:13.848 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:10:13.848 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:15:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:15:13.648 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:20:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:20:13.846 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:20:13.846 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:25:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:25:13.648 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:30:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:30:13.848 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:30:13.849 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:35:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:35:13.649 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:40:13.648 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:40:13.842 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:40:13.842 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:45:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:45:13.842 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:45:13.842 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:50:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:50:13.649 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 01:55:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 01:55:13.863 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 01:55:13.863 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:00:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:00:13.649 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:05:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:05:13.939 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 02:05:13.939 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:10:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:10:13.649 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:15:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:15:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 02:15:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:20:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:20:13.649 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:25:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:25:13.837 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 02:25:13.838 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:30:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:30:13.649 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:35:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:35:13.867 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 02:35:13.867 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:40:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:40:13.831 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 02:40:13.832 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:45:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:45:13.650 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:50:13.649 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:50:14.107 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 02:50:14.107 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 02:55:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 02:55:13.650 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:00:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:00:13.965 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 03:00:13.965 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:05:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:05:13.650 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:10:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:10:13.924 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 03:10:13.924 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:15:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:15:13.650 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:20:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:20:13.846 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 03:20:13.846 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:25:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:25:13.650 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:30:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:30:13.846 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 03:30:13.846 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:35:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:35:13.650 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:40:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:40:13.843 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 03:40:13.844 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:45:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:45:13.651 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:50:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:50:13.897 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 03:50:13.897 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 03:55:13.650 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 03:55:13.651 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:00:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:00:13.878 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 04:00:13.878 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:05:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:05:13.651 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:10:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:10:13.961 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 04:10:13.961 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:15:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:15:13.651 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:20:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:20:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 04:20:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:25:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:25:13.651 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:30:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:30:13.980 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 04:30:13.980 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:35:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:35:13.651 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:40:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:40:13.852 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 04:40:13.852 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:45:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:45:13.652 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:50:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:50:13.834 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 04:50:13.834 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 04:55:13.651 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 04:55:13.652 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:00:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:00:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 05:00:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:05:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:05:13.652 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:10:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:10:14.060 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 05:10:14.060 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:15:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:15:13.652 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:20:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:20:13.852 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 05:20:13.852 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:25:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:25:13.652 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:30:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:30:13.921 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 05:30:13.921 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:35:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:35:13.652 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:40:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:40:13.874 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 05:40:13.875 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:45:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:45:13.653 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:50:13.652 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:50:13.840 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 05:50:13.840 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 05:55:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 05:55:13.653 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:00:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:00:13.862 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:00:13.862 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:05:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:05:13.653 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:10:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:10:14.148 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:10:14.148 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:15:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:15:13.653 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:20:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:20:13.899 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:20:13.900 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:25:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:25:13.653 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:30:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:30:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:30:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:35:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:35:13.842 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:35:13.842 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:40:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:40:13.654 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:45:13.653 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:45:13.928 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:45:13.928 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:50:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:50:13.654 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 06:55:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 06:55:14.006 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 06:55:14.006 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:00:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:00:13.654 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:05:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:05:13.909 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 07:05:13.909 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:10:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:10:13.654 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:15:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:15:13.862 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 07:15:13.862 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:20:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:20:13.654 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:25:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:25:13.953 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 07:25:13.953 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:30:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:30:13.655 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:35:13.654 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:35:13.868 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 07:35:13.868 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:40:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:40:13.655 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:45:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:45:13.860 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 07:45:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:50:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:50:13.655 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 07:55:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 07:55:13.847 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 07:55:13.847 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:00:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:00:13.655 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:05:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:05:13.853 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 08:05:13.853 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:10:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:10:13.655 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:15:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:15:13.952 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 08:15:13.952 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:20:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:20:13.873 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 08:20:13.873 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:25:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:25:13.656 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:30:13.655 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:30:13.860 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 08:30:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:35:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:35:13.656 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:40:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:40:13.859 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 08:40:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:45:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:45:13.656 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:50:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:50:13.855 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 08:50:13.855 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 08:55:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 08:55:13.656 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:00:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:00:13.908 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:00:13.908 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:05:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:05:13.656 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:10:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:10:13.853 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:10:13.853 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:15:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:15:13.854 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:15:13.854 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:20:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:20:13.657 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:25:13.656 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:25:13.881 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:25:13.882 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:30:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:30:13.657 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:35:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:35:13.975 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:35:13.975 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:40:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:40:13.657 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:45:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:45:13.875 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:45:13.875 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:50:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:50:13.657 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 09:55:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 09:55:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 09:55:13.862 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:00:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:00:13.657 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:05:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:05:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 10:05:13.852 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:10:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:10:13.853 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 10:10:13.853 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:15:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:15:13.658 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:20:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:20:14.103 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 10:20:14.104 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:25:13.657 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:25:13.658 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:30:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:30:13.854 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 10:30:13.855 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:35:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:35:13.658 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:40:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:40:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 10:40:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:45:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:45:13.658 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:50:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:50:13.863 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 10:50:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 10:55:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 10:55:13.658 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:00:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:00:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:00:13.858 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:05:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:05:13.846 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:05:13.846 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:10:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:10:13.659 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:15:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:15:13.855 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:15:13.855 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:20:13.658 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:20:13.659 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:25:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:25:13.850 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:25:13.850 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:30:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:30:13.659 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:35:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:35:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:35:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:40:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:40:13.659 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:45:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:45:13.863 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:45:13.864 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:50:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:50:13.659 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 11:55:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 11:55:13.857 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 11:55:13.858 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:00:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:00:13.855 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 12:00:13.856 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:05:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:05:13.660 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:10:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:10:13.839 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 12:10:13.839 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:15:13.659 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:15:13.660 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:20:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:20:13.847 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 12:20:13.848 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:25:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:25:13.660 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:30:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:30:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 12:30:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:35:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:35:13.660 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:40:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:40:13.992 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 12:40:13.992 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:45:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:45:13.660 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:50:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:50:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 12:50:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 12:55:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 12:55:13.660 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:00:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:00:13.846 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:00:13.846 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:05:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:05:13.661 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:10:13.660 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:10:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:10:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:15:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:15:13.661 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:20:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:20:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:20:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:25:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:25:13.661 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:30:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:30:13.860 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:30:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:35:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:35:13.661 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:40:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:40:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:40:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:45:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:45:13.661 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:50:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:50:13.997 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:50:13.998 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 13:55:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 13:55:13.860 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 13:55:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:00:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:00:13.662 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:05:13.661 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:05:13.853 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 14:05:13.854 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:10:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:10:13.662 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:15:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:15:13.862 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 14:15:13.862 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:20:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:20:13.662 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:25:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:25:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 14:25:13.864 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:30:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:30:13.662 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:35:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:35:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 14:35:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:40:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:40:13.662 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:45:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:45:13.862 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 14:45:13.863 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:50:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:50:13.850 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 14:50:13.850 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 14:55:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 14:55:13.663 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:00:13.662 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:00:13.850 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 15:00:13.850 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:05:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:05:13.663 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:10:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:10:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 15:10:13.862 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:15:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:15:13.663 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:20:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:20:13.949 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 15:20:13.949 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:25:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:25:13.663 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:30:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:30:13.857 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 15:30:13.858 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:35:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:35:13.663 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:40:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:40:13.865 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 15:40:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:45:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:45:13.664 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:50:13.663 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:50:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 15:50:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 15:55:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 15:55:13.664 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:00:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:00:13.860 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:00:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:05:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:05:13.664 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:10:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:10:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:10:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:15:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:15:13.664 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:20:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:20:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:20:13.864 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:25:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:25:13.664 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:30:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:30:13.868 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:30:13.868 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:35:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:35:13.856 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:35:13.857 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:40:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:40:13.665 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:45:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:45:13.868 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:45:13.868 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:50:13.664 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:50:13.859 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 16:50:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 16:55:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 16:55:13.665 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:00:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:00:13.861 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:00:13.861 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:05:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:05:13.665 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:10:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:10:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:10:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:15:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:15:13.665 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:20:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:20:13.852 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:20:13.852 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:25:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:25:13.665 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:30:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:30:13.867 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:30:13.867 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:35:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:35:13.866 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:35:13.866 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:40:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:40:13.666 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:45:13.665 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:45:13.866 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:45:13.866 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:50:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:50:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 17:50:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 17:55:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 17:55:13.666 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:00:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:00:13.854 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 18:00:13.854 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:05:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:05:13.666 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:10:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:10:13.866 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 18:10:13.866 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:15:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:15:13.666 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:20:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:20:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 18:20:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:25:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:25:13.666 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:30:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:30:13.844 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 18:30:13.844 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:35:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:35:13.667 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:40:13.666 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:40:13.856 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 18:40:13.857 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:45:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:45:13.667 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:50:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:50:13.865 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 18:50:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 18:55:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 18:55:13.667 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:00:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:00:13.855 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:00:13.855 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:05:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:05:13.667 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:10:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:10:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:10:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:15:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:15:13.667 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:20:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:20:13.857 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:20:13.857 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:25:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:25:13.999 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:25:13.999 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:30:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:30:13.668 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:35:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:35:13.855 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:35:13.855 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:40:13.667 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:40:13.668 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:45:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:45:13.864 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:45:13.865 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:50:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:50:13.668 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 19:55:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 19:55:13.866 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 19:55:13.866 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:00:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:00:13.668 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:05:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:05:13.889 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 20:05:13.890 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:10:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:10:13.668 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:15:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:15:13.871 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 20:15:13.871 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:20:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:20:13.870 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 20:20:13.870 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:25:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:25:13.669 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:30:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:30:13.857 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 20:30:13.857 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:35:13.668 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:35:13.669 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:40:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:40:13.867 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 20:40:13.868 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:45:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:45:13.669 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:50:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:50:13.859 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 20:50:13.859 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 20:55:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 20:55:13.669 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:00:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:00:13.851 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 21:00:13.851 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:05:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:05:13.669 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:10:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:10:13.859 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 21:10:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:15:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:15:13.669 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:20:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:20:13.859 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 21:20:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:25:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:25:13.670 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:30:13.669 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:30:13.872 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 21:30:13.872 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:35:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:35:13.670 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:40:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:40:13.858 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 21:40:13.858 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:45:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:45:13.670 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:50:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:50:13.868 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 21:50:13.868 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 21:55:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 21:55:13.670 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:00:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:00:13.859 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:00:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:05:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:05:13.670 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:10:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:10:13.880 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:10:13.880 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:15:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:15:13.963 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:15:13.963 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:20:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:20:13.671 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:25:13.670 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:25:13.850 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:25:13.850 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:30:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:30:13.671 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:35:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:35:13.868 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:35:13.868 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:40:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:40:13.671 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:45:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:45:13.860 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:45:13.860 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:50:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:50:13.671 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 22:55:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 22:55:13.878 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 22:55:13.878 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:00:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:00:13.671 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:05:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:05:13.866 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 23:05:13.867 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:10:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:10:13.671 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:15:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:15:13.962 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 23:15:13.963 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:20:13.671 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:20:13.672 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:25:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:25:14.001 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 23:25:14.001 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:30:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:30:13.672 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:35:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:35:13.862 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 23:35:13.862 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:40:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:40:13.672 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:45:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:45:13.870 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 23:45:13.870 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:50:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:50:13.672 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
+2018-03-26 23:55:13.672 DEBUG c.s.b.DynDnsClientManager:78 - wake up to check external IP address
+2018-03-26 23:55:13.944 INFO  c.s.b.a:32 - external address: 51.7.243.145
+2018-03-26 23:55:13.944 INFO  c.s.b.DynDnsClientManager:93 - external IP address didn't change, no need to check/update the record.
